@@ -108,7 +108,8 @@ payload:
   - DOMAIN-SUFFIX,www.crystal-eizou.jp
   # ruby
   - DOMAIN-SUFFIX,www.ruby-av.com
-  # 桃太�?  - DOMAIN-SUFFIX,www.indies-av.co.jp
+  # indies  
+  - DOMAIN-SUFFIX,www.indies-av.co.jp
   # paradisetv
   - DOMAIN-SUFFIX,www.paradisetv.co.jp
   - DOMAIN-SUFFIX,stream.paradisetv.co.jp
