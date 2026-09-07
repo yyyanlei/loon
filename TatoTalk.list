@@ -1,0 +1,18 @@
+# NAME: TatoTalk
+# AUTHOR: yanlei
+# REPO: https://github.com/yanlei/tatotalk-rules
+# UPDATED: 2026-09-07
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 8
+# TOTAL: 11
+DOMAIN-SUFFIX,potato.im,no-resolve
+DOMAIN-SUFFIX,cdmmc.org,no-resolve
+DOMAIN-SUFFIX,adjust.world,no-resolve
+IP-CIDR,3.169.121.20/32,no-resolve
+IP-CIDR,3.169.121.36/32,no-resolve
+IP-CIDR,3.169.121.44/32,no-resolve
+IP-CIDR,3.169.121.67/32,no-resolve
+IP-CIDR,13.226.69.0/24,no-resolve
+IP-CIDR,65.8.180.0/24,no-resolve
+IP-CIDR,18.64.211.0/24,no-resolve
+IP-CIDR,52.84.20.0/24,no-resolve
