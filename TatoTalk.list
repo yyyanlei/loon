@@ -3,8 +3,8 @@
 # REPO: https://github.com/yyyanlei/loon
 # UPDATED: 2026-09-07
 # DOMAIN-SUFFIX: 6
-# IP-CIDR: 8
-# TOTAL: 14
+# IP-CIDR: 11
+# TOTAL: 17
 DOMAIN-SUFFIX,potato.im,no-resolve
 DOMAIN-SUFFIX,cdmmc.org,no-resolve
 DOMAIN-SUFFIX,adjust.world,no-resolve
@@ -19,3 +19,6 @@ IP-CIDR,13.226.69.0/24,no-resolve
 IP-CIDR,65.8.180.0/24,no-resolve
 IP-CIDR,18.64.211.0/24,no-resolve
 IP-CIDR,52.84.20.0/24,no-resolve
+IP-CIDR,76.223.41.152/32,no-resolve
+IP-CIDR,34.80.148.34/32,no-resolve
+IP-CIDR,35.220.219.43/32,no-resolve
